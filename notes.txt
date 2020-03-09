@@ -1,0 +1,8 @@
+radio button is a button what u can select and de-select
+label - just put some text infront of the, for example input radio button
+https://www.sitepoint.com/simple-javascript-quiz/
+
+define arrays with string questions
+var Questions = ["is the earth flat?", "is the moon a stalite?","..etc.."];
+var QoneAnswers = ["Yes", "No", "IDK"];
+var CorrectAns = [0, 0 ...etc...]
